@@ -9,3 +9,6 @@
 - Запуск hello.go
 - Статья grpc-микросервис отправки электронной почты на golang https://37yonub.ru/articles/batch-email-sending-using-golang-ru
 - Освоение микросервисов через node.js https://habr.com/ru/post/447074/
+
+11.10.2019
+- Статья как поднять smtp сервер на linux https://habr.com/ru/company/ruvds/blog/325356/
