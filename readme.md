@@ -12,3 +12,4 @@
 
 11.10.2019
 - Статья как поднять smtp сервер на linux https://habr.com/ru/company/ruvds/blog/325356/
+- Решение ошибки network is unreachable https://habr.com/ru/company/ruvds/blog/325356/
