@@ -13,3 +13,4 @@
 11.10.2019
 - Статья как поднять smtp сервер на linux https://habr.com/ru/company/ruvds/blog/325356/
 - Решение ошибки network is unreachable https://www.e2enetworks.com/help/knowledge-base/howto-fix-postfixsmtp-network-is-unreachable-error/
+- Создание почты на домене https://www.nic.ru/help/sozdanie-pochty-na-domene_6803.html
